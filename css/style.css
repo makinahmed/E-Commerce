@@ -46,3 +46,22 @@
 ul li {
     list-style-type: none;
 }
+
+
+/* about us  */
+.get-in-touch {
+    width: 170px;
+    border-bottom: 3px solid  #4A99D3;
+    color: #4A99D3;
+    border-bottom-width: 2px;
+}
+
+.about-header {
+    margin-bottom: 150px;
+}
+
+.header-bg {
+background: linear-gradient(359.45deg, #4A99D3 -24.57%, rgba(74, 153, 211, 0) 76.31%),
+linear-gradient(0deg, #FFFFFF, #FFFFFF);
+
+}
