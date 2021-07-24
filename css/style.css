@@ -1,0 +1,39 @@
+
+.header {
+    background-color: linear-gradient(1.02deg, #4A99D3 -17.33%, rgba(74, 153, 211, 0) 75.91%), #FFFFFF;
+   
+}
+
+.how-it-works {
+    background-color: rgba(74, 153, 211, 0.1);
+}
+
+.client-image {
+    background-color: rgba(74, 153, 211, 0.1);
+}
+
+.footer {
+    background-color: rgba(74, 153, 211, 1);
+}
+.footer a {
+    text-decoration: none;
+    color:white;
+}
+.quick-link {
+    width: 130px;
+    border-bottom: 3px solid white;
+    border-bottom-width: 2px;
+}
+.other {
+    width: 80px;
+    border-bottom: 3px solid white;
+    border-bottom-width: 2px;
+}
+.products {
+    width: 100px;
+    border-bottom: 3px solid white;
+    border-bottom-width: 2px;
+}
+ul li {
+    list-style-type: none;
+}
