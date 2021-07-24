@@ -4,14 +4,23 @@
    
 }
 
+/* how it works  */
 .how-it-works {
     background-color: rgba(74, 153, 211, 0.1);
 }
+
+/* client say  */
 
 .client-image {
     background-color: rgba(74, 153, 211, 0.1);
 }
 
+/* bg  */
+.side-img {
+    transform: rotate(180deg);
+}
+
+/* footer  */
 .footer {
     background-color: rgba(74, 153, 211, 1);
 }
